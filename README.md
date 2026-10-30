@@ -1,2 +1,2 @@
 # MTSD
-Mountain Tunnel Semantic Segmentation Dataset。
+Mountain Tunnel Semantic Segmentation Dataset.

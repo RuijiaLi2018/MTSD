@@ -1,2 +1,5 @@
 # MTSD
 Mountain Tunnel Semantic Segmentation Dataset.
+
+The dataset can be downloaded via:
+https://zenodo.org/records/23826345?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImJkNTEyMzY4LTM3MjYtNGUwMS1iYmU0LTNmMzM3NGM5NTcxMCIsImRhdGEiOnt9LCJyYW5kb20iOiI5MzE0M2U5NjMxYWMwMjNkOGE0N2M0NjBlZDZhNDA1NSJ9.11KNMopiwJszhlAgNXQim65sSO_eCSfmRT00mXpggY_d1I8q26_twXsraJNMmD5wsyFeoy4zWiT_NPV1jyfSCg
